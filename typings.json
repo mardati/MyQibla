@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "geodesy": "registry:dt/geodesy#1.1.0+20170324151803"
+  }
+}
